@@ -1,4 +1,5 @@
 # sortPrimo
+this code is written by Paul Pokpong Jitjomnongmate for Primo quiz
 step 1: use "npm i" to install all the dependency
 step 2: use "npx jest" to run jest script to test
 
